@@ -1,0 +1,82 @@
+/*
+    THIS IS FOR DEVELOPMENT ONLY, CREATE YOUR OWN GOD DAMN CSS!
+*/
+
+:root {
+    --white: #afafaf;
+    --red: #e31b23;
+    --bodyColor: #292a2b;
+    --borderFormEls: hsl(0, 0%, 10%);
+    --bgFormEls: hsl(0, 0%, 14%);
+    --bgFormElsFocus: hsl(0, 7%, 20%);
+  }
+
+* {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+body {
+    margin:40px auto;
+    max-width:1000px;
+    line-height:1.6;
+    font-size:18px;
+    color:#cecece;
+    background: #333333;
+    padding:0 10px
+}
+
+h1, h2, h3 {
+    line-height:1.2;
+}
+
+button {
+    background-color: #005571;
+    border-radius: 3px;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin-top: 20px;
+    font-size: 16px;
+  }
+ 
+#results {
+    max-height: 800px;
+    overflow: auto;
+}
+
+th, td {
+    text-align: left;
+    padding: 5px;
+    vertical-align: top;
+}
+
+#loading {
+    text-align: center;
+}
+
+#results {
+    padding: 15px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+label {
+    font-size: 16px;
+}
+
+select,
+input,
+textarea,
+button {
+  width: 100%;
+  line-height: 1.5;
+  padding: 15px 10px;
+  border: 1px solid var(--borderFormEls);
+  color: var(--white);
+  background: var(--bgFormEls);
+/*  transition: background-color 0.3s cubic-bezier(0.57, 0.21, 0.69, 1.25),
+    transform 0.3s cubic-bezier(0.57, 0.21, 0.69, 1.25);*/
+}

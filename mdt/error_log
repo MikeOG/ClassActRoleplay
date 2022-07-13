@@ -1,0 +1,27 @@
+[08-Oct-2020 10:06:03 America/Chicago] PHP Warning:  mysqli::__construct() expects parameter 5 to be int, string given in /home/carpnet/public_html/mdt/queries.php on line 13
+[08-Oct-2020 10:06:03 America/Chicago] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/carpnet/public_html/mdt/queries.php on line 60
+[08-Oct-2020 10:06:03 America/Chicago] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/carpnet/public_html/mdt/queries.php on line 61
+[08-Oct-2020 10:06:03 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/carpnet/public_html/mdt/queries.php on line 63
+[08-Oct-2020 18:09:10 America/Chicago] PHP Warning:  mysqli::__construct() expects parameter 5 to be int, string given in /home/carpnet/public_html/mdt/queries.php on line 13
+[08-Oct-2020 18:09:10 America/Chicago] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/carpnet/public_html/mdt/queries.php on line 60
+[08-Oct-2020 18:09:10 America/Chicago] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/carpnet/public_html/mdt/queries.php on line 61
+[08-Oct-2020 18:09:10 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/carpnet/public_html/mdt/queries.php on line 63
+[08-Oct-2020 18:18:58 America/Chicago] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/carpnet/public_html/mdt/queries.php on line 16
+[08-Oct-2020 18:39:26 America/Chicago] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/carpnet/public_html/mdt/queries.php on line 16
+[08-Oct-2020 18:40:04 America/Chicago] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/carpnet/public_html/mdt/queries.php on line 16
+[08-Oct-2020 18:40:11 America/Chicago] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/carpnet/public_html/mdt/queries.php on line 16
+[08-Oct-2020 18:40:33 America/Chicago] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/carpnet/public_html/mdt/queries.php on line 16
+[08-Oct-2020 20:07:47 America/Chicago] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/carpnet/public_html/mdt/queries.php on line 16
+[08-Oct-2020 21:50:26 America/Chicago] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/carpnet/public_html/mdt/queries.php on line 16
+[08-Oct-2020 21:51:04 America/Chicago] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/carpnet/public_html/mdt/queries.php on line 16
+[08-Oct-2020 21:51:31 America/Chicago] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/carpnet/public_html/mdt/queries.php on line 16
+[31-Dec-2020 22:41:57 America/Chicago] PHP Warning:  array_combine(): Both parameters should have an equal number of elements in /home/carpnet/public_html/mdt/queries.php on line 251
+[31-Dec-2020 22:42:27 America/Chicago] PHP Warning:  array_combine(): Both parameters should have an equal number of elements in /home/carpnet/public_html/mdt/queries.php on line 251
+[04-Jan-2021 09:59:48 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/2002): Connection refused in /home/carpnet/public_html/mdt/queries.php on line 13
+[04-Jan-2021 09:59:48 America/Chicago] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/carpnet/public_html/mdt/queries.php on line 60
+[04-Jan-2021 09:59:48 America/Chicago] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/carpnet/public_html/mdt/queries.php on line 61
+[04-Jan-2021 09:59:48 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/carpnet/public_html/mdt/queries.php on line 63
+[04-Jan-2021 10:00:05 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/2002): Connection refused in /home/carpnet/public_html/mdt/queries.php on line 13
+[04-Jan-2021 10:00:05 America/Chicago] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/carpnet/public_html/mdt/queries.php on line 60
+[04-Jan-2021 10:00:05 America/Chicago] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/carpnet/public_html/mdt/queries.php on line 61
+[04-Jan-2021 10:00:05 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/carpnet/public_html/mdt/queries.php on line 63

@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<!--Import Google Icon Font-->
+		<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+		<!--Import materialize.css-->
+		<link type="text/css" rel="stylesheet" href="css/materialize.css"  media="screen,projection"/>
+
+		<!--Let browser know website is optimized for mobile-->
+		<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+	    <style>
+    	    #overflow-container::-webkit-scrollbar {
+    	        width: 0px;
+    	    }
+    	    ::-webkit-scrollbar {
+    	        width: 3px;
+    	    }
+    	    ::-webkit-scrollbar-track {
+    	        background: #FFF;
+    	        -webkit-box-shadow: inset 1px 1px 2px rgba(0,0,0,0.1);
+    	    }
+    	    ::-webkit-scrollbar-thumb {
+    	        background: #CCC;
+    	        -webkit-box-shadow: inset 1px 1px 2px rgba(0,0,0,0.2);
+    	    }
+    	    ::-webkit-scrollbar-thumb:hover {
+    	        background: #AAA;
+    	    }
+    	    ::-webkit-scrollbar-thumb:active {
+    	        background: #888;
+    	        -webkit-box-shadow: inset 1px 1px 2px rgba(0,0,0,0.3);
+    	    }
+
+            #patchnotes-div img {
+                display: none;
+            }
+    	</style>
+	</head>
+
+	<body>
+		<div class="container">
+			<div class="section">
+				<div class="row" id="login-screen">
+
+					<div id="login" class="row">
+						<div class="col s12 transparent">
+					        <div class="card horizontal">
+					            <div class="card-stacked">
+					                <div class="card-content">
+					                    <span class="card-title">Welcome to Class Act Roleplay!</span>
+					                    <p>Welcome! Please click on the login button to continue, if you are unable to press the login button then press F8 and type <b>showlogin</b>.</p>
+					                </div>
+					                <div class="card-action">
+					                    <a onclick="OnLoginRequest(this)" class="btn waves-effect waves-light z-depth-3 hoverable right scale-transition">Login
+					                        <i class="material-icons right">send</i>
+					                    </a>
+					                    <div class="row">
+					                        <div class="col s10 progress scale-transition scale-out" id="login-progess">
+					                            <div class="indeterminate"></div>
+					                        </div>
+					                    </div>
+					                </div>
+					            </div>
+					        </div>
+					    </div>
+					    <div class="col s12 transparent" id="character-display">		
+					        <div class="row" style="height: 100%">
+					            <div class="col s12" id="overflow-container" style="overflow-y: auto; height:600px">		
+					                <div class="row" id="main-row">						
+					                </div>
+					            </div>
+					            <a class="btn-floating btn-large waves-effect waves-light tooltipped deep-orange modal-trigger right disabled" id="buffer" style="margin-right: 25px;opacity: 0.0"><i class="material-icons">add</i></a>
+					        </div>
+					    </div>
+                        <div id="char-create-fab" class="fixed-action-btn no-autoinit">
+                            <a class="btn-floating btn-large waves-effect waves-light tooltipped deep-orange modal-trigger right disabled" id="char-create-button" style="margin-right: 25px;opacity: 0.0" data-position="left" data-tooltip="Create new character" href="#create-char-modal"><i class="material-icons">add</i></a>
+                        </div>
+					</div>
+
+					<!--CHARACTER CREATION START-->
+					<div id="create-char-modal" class="modal bottom-sheet no-autoinit" style="overflow-y:auto">
+						<div class="modal-content">
+							<form id="create-char-form" class="col s12 white z-depth-2">
+								<div class="row">
+									<div class="input-field col s6">
+										<input id="form_firstname" type="text" class="validate">
+										<label for="form_firstname">First Name</label>
+									</div>
+									<div class="input-field col s6">
+										<input id="form_lastname" type="text" class="validate">
+										<label for="form_lastname">Last Name</label>
+									</div>
+									<div class="input-field col s12">
+										<input id="form_date" type="date" class="validate">
+										<label for="form_date">Date of birth</label>
+									</div>
+								</div>
+							</form> 
+						</div>
+						<div class="modal-footer">
+							<div class="row">
+								<div class="col s2 offset-s10">
+									<a onclick="OnCreateCharacter()"class="btn waves-effect waves-light z-depth-1 hoverable right">Create
+										<i class="material-icons right">send</i>
+									</a>
+								</div>
+							</div>
+						</div>
+					</div>
+					<!--CHARACTER CREATION END-->
+				</div>
+			</div>
+		</div>
+		<!--JavaScript at end of body for optimized loading-->
+		<script src="nui://game/ui/jquery.js" type="text/javascript"></script>
+		<script type="text/javascript" src="js/materialize.js"></script>
+		<script type="text/javascript" src="js/characterobject.js"></script>
+		<script type="text/javascript" src="js/eventfuncs.js"></script>
+		<script type="text/javascript" src="js/login.js"></script>
+		<script type="text/javascript">
+			document.addEventListener('DOMContentLoaded', function() {
+				M.AutoInit();
+				var elems = document.querySelectorAll(".modal");
+				var instances = M.Modal.init(elems, 
+				{
+					inDuration: 500,
+					outDuration: 1000
+                })
+			});
+
+			function sleep(ms) {
+				return new Promise(resolve => setTimeout(resolve, ms));
+			}
+
+			async function test(elem)
+			{
+				elem.classList.add("scale-out");
+				var progress = document.getElementById("login-progess");
+				progress.classList.remove("scale-out");
+				await sleep(300);
+				elem.style.display = "none";
+			}
+		</script>
+	</body>
+</html>

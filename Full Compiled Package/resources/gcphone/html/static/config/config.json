@@ -1,0 +1,281 @@
+{
+  "reseau": "LifeInvader",
+  "warningMessageCount": 250,
+  "themeColor": "#007aff",
+  "themeColorTitle": "#f7f7f7",
+  "colors": [
+    "#EF5350",
+    "#EC407A",
+    "#AB47BC",
+    "#7E57C2",
+    "#5C6BC0",
+    "#42A5F5",
+    "#29B6F6",
+    "#26C6DA",
+    "#26A69A",
+    "#66BB6A",
+    "#9CCC65",
+    "#D4E157",
+    "#FFCA28",
+    "#FFA726",
+    "#FF7043",
+    "#8D6E63",
+    "#78909C"
+  ],
+
+  "useFormatNumberFrance": true,
+
+  "useWebRTCVocal": false,
+  "RTCConfig": {
+    "iceServers": [{
+      "urls": ["turn:trun.draconet.net"],
+      "username": "gcphone",
+      "credential": "gcphone"
+    }]
+  },
+
+  "//": "REQUIRE https://github.com/citizenfx/screenshot-basic or set false",
+  "enableTakePhoto": false,
+  "fileUploadService_Url": "https://wew.wtf/upload.php",
+  "fileUploadService_Field": "files[]",
+
+  "background": {
+    "White desert": "back001.jpg",
+    "Palms": "back002.jpg",
+    "Santa Monica": "back003.jpg",
+
+    "Rute 66": "color.jpg",
+    "Tokyo by Night": "humo.jpg",
+    "Dark Planet": "iluminacion.jpg",
+
+    "AstroNeon": "neon.jpg",
+    "Blue Planet": "oscuridad.jpg",
+    "Wild beach": "playa.jpg",
+    "Winter landscape": "paisajes.jpg",
+    "Tokio": "tokio.jpg",
+    "Custom URL": "URL"
+  },
+  
+  "background_default": {
+    "label": "Santa Monica",
+    "value": "back003.jpg"
+  },
+
+  "coque": {
+    "Gray case": "silicona_gris.png",
+    "Salmon cover": "silicona_salmon.png",
+    "Red case": "silicona_amarilla.png",
+    "Mint cover": "menta.png",
+    "Sky cover": "cielo.png",
+    "Sansumg S8": "s8.png",
+    "Sansumg S8n": "sin_funda.png",
+    "Iphone X": "iphonex.png"
+  },
+
+  "sonido": {
+    "Astronomia": "https://github.com/DracoDragon88/gcphone_vrp/raw/v3.0/ringtones/ring.ogg",
+    "Safaera": "https://github.com/DracoDragon88/gcphone_vrp/raw/v3.0/ringtones/safaera.ogg",
+    "Bella Ciao": "https://github.com/DracoDragon88/gcphone_vrp/raw/v3.0/ringtones/bella_ciao.ogg",
+    "Casa Papel": "https://github.com/DracoDragon88/gcphone_vrp/raw/v3.0/ringtones/casa_papel.ogg",
+    "Iphone 11": "https://github.com/DracoDragon88/gcphone_vrp/raw/v3.0/ringtones/iphone_11.ogg",
+    "Tusa": "https://github.com/DracoDragon88/gcphone_vrp/raw/v3.0/ringtones/tusa.ogg",
+    "XXXTentacion": "https://github.com/DracoDragon88/gcphone_vrp/raw/v3.0/ringtones/xtentacion.ogg"
+  },
+
+  "coque_default": {
+    "label": "Sansumg S8",
+    "value": "s8.png"
+  },
+
+  "sonido_default": {
+    "label": "Casa Papel",
+    "value": "casa_papel.ogg"
+  },
+
+
+  "serviceCall": [
+
+  ],
+
+  "defaultContacts": [
+
+  ],
+
+  "apps": [{
+      "name": "Twitter",
+      "icons": "/html/static/img/icons_app/twitter.png",
+      "routeName": "twitter.splash",
+      "inHomePage": false
+    },
+    {
+      "name": "Phone",
+      "icons": "/html/static/img/icons_app/call.png",
+      "routeName": "appels",
+      "inHomePage": true
+    },
+    {
+      "name": "Contacts",
+      "icons": "/html/static/img/icons_app/contacts.png",
+      "routeName": "contacts",
+      "inHomePage": false
+    },
+    {
+      "name": "Messages",
+      "icons": "/html/static/img/icons_app/sms.png",
+      "routeName": "messages",
+      "inHomePage": true,
+      "puceRef": "nbMessagesUnread"
+    },
+    {
+      "name": "Settings",
+      "icons": "/html/static/img/icons_app/settings.png",
+      "routeName": "parametre",
+      "inHomePage": false
+    },
+    {
+      "name": "Camera",
+      "icons": "/html/static/img/icons_app/photo.png",
+      "routeName": "photo"
+    },
+    {
+      "name": "Reddit",
+      "icons": "/html/static/img/icons_app/reddit.png",
+      "routeName": "tchat"
+    },
+    {
+      "name": "Notes",
+      "routeName": "notes",
+      "icons": "/html/static/img/icons_app/notes.png"
+    },
+    {
+      "name": "Calculator",
+      "routeName": "calculator",
+      "icons": "/html/static/img/icons_app/calculadora.png"
+    },
+    {
+      "name": "9GAG",
+      "icons": "/html/static/img/icons_app/9gag.png",
+      "routeName": "9gag"
+    }
+  ],
+  "defaultLanguage": "en_US",
+  "language": {
+    "en_US": {
+      "NAME": "English",
+      "PHONE_WARNING_MESSAGE": "memento",
+      "PHONE_WARNING_MESSAGE_MESS": "news",
+      "CONFIRM": "Accept",
+      "CANCEL": "abort",
+      "APP_CONFIG_TITLE": "parameter",
+      "APP_CONFIG_MY_MUNBER": "My number",
+      "APP_CONFIG_WALLPAPER": "wallpaper",
+      "APP_CONFIG_CASE": "telephone cover",
+      "APP_CONFIG_SOUND": "Ringtone",
+      "APP_CONFIG_ZOOM": "zoom",
+      "APP_CONFIG_VOLUME": "volume",
+      "APP_CONFIG_LANGUAGE": "Language",
+      "APP_CONFIG_MOUSE_SUPPORT": "Mouse control",
+      "APP_CONFIG_RESET": "format",
+      "APP_CONFIG_RESET_CONFIRM": "DELETE ALL",
+      "APP_PHONE_CALL": "call",
+      "APP_PHONE_DELETE": "Delete",
+      "APP_PHONE_DELETE_ALL": "Delete all.",
+      "APP_PHONE_TITLE": "Telephone number",
+      "APP_PHONE_MENU_FAVORITES": "favourites",
+      "APP_PHONE_MENU_RECENTS": "Newest",
+      "APP_PHONE_MENU_CONTACTS": "contacts",
+      "APP_PHONE_ENTER_NUMBER": "Enter a number",
+      "APP_PHONE_NUMBER_HIDDEN": "Secret number",
+      "APP_PHONE_NUMBER_UNKNOWN": "Unknown",
+      "APP_PHONE_CALL_IGNORE": "Ignore",
+      "APP_PHONE_CALL_ANONYMOUS": "Call Anonymous",
+      "APP_CALCULATOR_TITLE": "Calculator",
+      "APP_BANK_SALDO": "Saldo",
+      "APP_BANK_VALUTA": "$",
+      "APP_BANK_TO_NUMBER": "Phone Number",
+      "APP_BANK_AMOUNT": "Amount",
+      "APP_BANK_TRANSFER": "Transfer",
+      "APP_BANK_CANCEL": "Cancel",
+      "APP_BOURSE_TITLE": "stock exchange",
+      "APP_CONTACT_TITLE": "contact details",
+      "APP_CONTACT_NEW": "New contact",
+      "APP_CONTACT_EDIT": "Change the contact",
+      "APP_CONTACT_SAVE": "registration",
+      "APP_CONTACT_CANCEL": "abort",
+      "APP_CONTACT_DELETE": "Delete",
+      "APP_CONTACT_LABEL_NAME": "First name - Last name",
+      "APP_CONTACT_LABEL_NUMBER": "number",
+      "APP_MESSAGE_TITLE": "news",
+      "APP_MESSAGE_NEW_MESSAGE": "New Message",
+      "APP_MESSAGE_ERASE_CONVERSATION": "Delete the call",
+      "APP_MESSAGE_ERASE_ALL_CONVERSATIONS": "Delete all conv.",
+      "APP_MESSAGE_SEND_GPS": "Send GPS coupling",
+      "APP_MESSAGE_SET_GPS": "GPS position",
+      "APP_MESSAGE_ZOOM_IMG": "Enlarge",
+      "APP_MESSAGE_DELETE": "Delete",
+      "APP_MESSAGE_SMS": "text message",
+      "APP_MESSAGE_CONTACT_TITLE": "contacts",
+      "APP_MESSAGE_CONTRACT_ENTER_NUMBER": "Enter a number",
+      "APP_MESSAGE_PLACEHOLDER_ENTER_MESSAGE": "Send a message",
+      "APP_DARKTCHAT_TITLE": "Reddit",
+      "APP_DARKTCHAT_NEW_CHANNEL": "Add a channel",
+      "APP_DARKTCHAT_DELETE_CHANNEL": "Delete the channel",
+      "APP_DARKTCHAT_CANCEL": "abort",
+      "APP_DARKTCHAT_PLACEHOLDER_ENTER_MESSAGE": "Enter a message",
+      "APP_NOTES_TITLE": "Notes",
+      "APP_NOTES_NEW": "New Note",
+      "APP_NOTES_DELETE": "Delete Note",
+      "APP_NOTES_CANCEL": "Cancel",
+      "APP_TWITTER_NAME": "Twitter",
+      "APP_TWITTER_VIEW_TWITTER": "Twitter",
+      "APP_TWITTER_VIEW_TOP_TWEETS": "top tweets",
+      "APP_TWITTER_VIEW_TWEETER": "tweets",
+      "APP_TWITTER_VIEW_SETTING": "parameter",
+      "APP_TWITTER_NEW_ACCOUNT_USERNAME": "Username (>= 4)",
+      "APP_TWITTER_NEW_ACCOUNT_PASSWORD": "Password (>= 6)",
+      "APP_TWITTER_NEW_ACCOUNT_PASSWORD_CONFIRM": "Confirm password",
+      "APP_TWITTER_NEW_ACCOUNT_AVATAR": "URL of your avatar",
+      "APP_TWITTER_PLACEHOLDER_MESSAGE": "What's the matter with you?",
+      "APP_TWITTER_BUTTON_ACTION_TWEETER": "Tweeter",
+      "APP_TWITTER_ACCOUNT_LOGIN": "Log in to the website",
+      "APP_TWITTER_ACCOUNT_LOGOUT": "Disconnect from location",
+      "APP_TWITTER_ACCOUNT_PARAM": "My account",
+      "APP_TWITTER_ACCOUNT_AVATAR": "Changing the Avatar",
+      "APP_TWITTER_ACCOUNT_CHANGE_PASSWORD": "Change password",
+      "APP_TWITTER_ACCOUNT_NEW": "New account",
+      "APP_TWIITER_ACCOUNT_SAVE": "registration",
+      "APP_TWIITER_ACCOUNT_CREATE": "Create the account",
+      "APP_TWIITER_ACCOUNT_CANCEL": "abort",
+      "APP_TWITTER_ACCOUNT_USERNAME": "username",
+      "APP_TWITTER_ACCOUNT_PASSWORD": "password",
+      "APP_TWITTER_NOTIFICATION": "notification",
+      "APP_TWITTER_NOTIFICATION_WHEN": "To be notified",
+      "APP_TWITTER_NOTIFICATION_ALL": "All News",
+      "APP_TWITTER_NOTIFICATION_MENTION": "Just mention",
+      "APP_TWITTER_NOTIFICATION_NEVER": "Nobody",
+      "APP_TWITTER_NOTIFICATION_SOUND": "Play a sound",
+      "APP_TWITTER_NOTIFICATION_SOUND_YES": "Yes",
+      "APP_TWITTER_NOTIFICATION_SOUND_NO": "No",
+      "APP_TWITTER_NOTIF_ACCOUNT_CREATE_SUCCESS": "Your Twitter account has been created.",
+      "APP_TWITTER_NOTIF_ACCOUNT_CREATE_ERROR": "Your Twitter account could not be created (username already used?)",
+      "APP_TWITTER_NOTIF_LOGIN_SUCCESS": "You are connected to Twitter.",
+      "APP_TWITTER_NOTIF_LOGIN_ERROR": "Invalid account / passwords",
+      "APP_TWITTER_NOTIF_AVATAR_SUCCESS": "Your avatar has been changed!",
+      "APP_TWITTER_NOTIF_NEW_PASSWORD_SUCCESS": "Your password has been changed.",
+      "APP_TWITTER_NOTIF_NEW_PASSWORD_ERROR": "Oops.... Your password could not be changed.",
+      "APP_TWITTER_NOTIF_NEW_PASSWORD_MISS_MATCH": "Passwords do not match",
+      "APP_TWITTER_NOTIF_NEW_PASSWORD_LENGTH_ERROR": "Password too short",
+
+      "TIMEAGO": [
+        "just now",
+        ["%s second ago", "%s seconds ago"],
+        ["%s minute ago", "%s minutes ago"],
+        ["%s hour ago", "%s hours ago"],
+        ["%s day ago", "%s days ago"],
+        ["%s week ago", "%s weeks ago"],
+        ["%s month ago", "%s months ago"],
+        ["%s year ago", "%s years ago"]
+      ]
+    }
+  }
+}

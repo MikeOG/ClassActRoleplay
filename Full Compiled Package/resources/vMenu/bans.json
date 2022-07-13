@@ -1,0 +1,936 @@
+[
+  {
+    "playerName": "Trenb",
+    "identifiers": [
+      "steam:11000011b092dac",
+      "license:41471411e148c0409b5cbe7890f30187b12ede28",
+      "xbl:2535418180402043",
+      "live:985153864099043",
+      "discord:261273859569745921",
+      "ip:178.164.103.248"
+    ],
+    "bannedUntil": "2019-02-18T03:12:49",
+    "banReason": "RDM",
+    "bannedBy": "Andris"
+  },
+  {
+    "playerName": "Hans",
+    "identifiers": [
+      "steam:110000101ac48dd",
+      "license:18c7d5f040b8db221dfd0c0bd8602fe185a96dbc",
+      "xbl:2533274833837336",
+      "live:1829581453382269",
+      "discord:280884093330391040",
+      "ip:178.164.46.128"
+    ],
+    "bannedUntil": "3000-01-01T00:00:00",
+    "banReason": "Banned by staff.",
+    "bannedBy": "Andris"
+  },
+  {
+    "playerName": "Glue",
+    "identifiers": [
+      "steam:1100001369e0aba",
+      "license:d8081a96632c935dedda9019c627cadfbab9f425",
+      "live:1055521084224781",
+      "discord:159301361127653376",
+      "ip:178.164.57.111"
+    ],
+    "bannedUntil": "3000-01-01T00:00:00",
+    "banReason": "Banned by staff.",
+    "bannedBy": "Andris"
+  },
+  {
+    "playerName": "bigc1109",
+    "identifiers": [
+      "steam:110000117d1777b",
+      "license:043fd8dcf327aac40dd0f8f4b0f7422c1cad22dc",
+      "discord:271854195512967168",
+      "ip:100.35.131.215"
+    ],
+    "bannedUntil": "2019-01-20T04:56:12",
+    "banReason": "failrp",
+    "bannedBy": "Andris"
+  },
+  {
+    "playerName": "Esko",
+    "identifiers": [
+      "steam:11000010c7f0bc6",
+      "license:49852af99e151b8e6bf9a078e251f2c4f2b4c75e",
+      "discord:213731430017138688",
+      "ip:85.76.136.207"
+    ],
+    "bannedUntil": "3000-01-01T00:00:00",
+    "banReason": "Hackin",
+    "bannedBy": "Andris"
+  },
+  {
+    "playerName": "Lil janske",
+    "identifiers": [
+      "steam:110000107db8ade",
+      "license:9f67ab5bc846852616d15f1f85320b8dbaba4c75",
+      "xbl:2533274999365343",
+      "live:914801010011592",
+      "discord:129882781529538560",
+      "ip:85.76.48.186"
+    ],
+    "bannedUntil": "3000-01-01T00:00:00",
+    "banReason": "Hacking",
+    "bannedBy": "Andris"
+  },
+  {
+    "playerName": "spurry",
+    "identifiers": [
+      "steam:11000010c869f39",
+      "license:9e2a181fa25f6bf3e7e3a1527632a9c47099f19a",
+      "ip:2.248.128.35"
+    ],
+    "bannedUntil": "2019-01-22T07:25:47",
+    "banReason": "killing prison guards for weapons.",
+    "bannedBy": "Andris"
+  },
+  {
+    "playerName": "Tryy3x",
+    "identifiers": [
+      "steam:1100001119822ed",
+      "license:350a85677fdd79bec851e3c1bd3bebe23abb2741",
+      "xbl:2535444679380594",
+      "live:1829582688399771",
+      "ip:92.35.54.202"
+    ],
+    "bannedUntil": "2019-01-22T07:26:05",
+    "banReason": "killing prison guards for weapons",
+    "bannedBy": "Andris"
+  },
+  {
+    "playerName": "moutaaskd",
+    "identifiers": [
+      "steam:1100001374e4d28",
+      "license:cda2af92ec5bbbd49cf161635255b74d0d5ef6ae",
+      "discord:221401810169102338",
+      "ip:89.155.136.105"
+    ],
+    "bannedUntil": "3000-01-01T00:00:00",
+    "banReason": "Banned by staff.",
+    "bannedBy": "Andris"
+  },
+  {
+    "playerName": "hello there",
+    "identifiers": [
+      "steam:11000010d5e2c91",
+      "license:e925a97c9614b6e0e414b089bae8209774bdc35f",
+      "discord:211584337915674624",
+      "ip:135.0.188.220"
+    ],
+    "bannedUntil": "3000-01-01T00:00:00",
+    "banReason": "naked ped",
+    "bannedBy": "Andris"
+  },
+  {
+    "playerName": "goodrylie01",
+    "identifiers": [
+      "steam:110000117719b4f",
+      "license:5bfff954d01419e727e04fa1ba4fb8eae830a61c",
+      "xbl:2535456441956989",
+      "live:1055521805349186",
+      "ip:104.219.196.15"
+    ],
+    "bannedUntil": "3000-01-01T00:00:00",
+    "banReason": "failrp",
+    "bannedBy": "Andris"
+  },
+  {
+    "playerName": "gerald",
+    "identifiers": [
+      "steam:11000013774604d",
+      "license:a9b9013d167359cceea05e2703187d7bb50348e1",
+      "live:1055518461201752",
+      "discord:98517996972019712",
+      "ip:24.21.154.72"
+    ],
+    "bannedUntil": "3000-01-01T00:00:00",
+    "banReason": "failrp",
+    "bannedBy": "Andris"
+  },
+  {
+    "playerName": "Charle Delagole",
+    "identifiers": [
+      "steam:11000010910e10d",
+      "license:9a30b2cb7f87a27615b9fa3b029d29d15272f7c4",
+      "discord:368123053399605271",
+      "ip:86.195.159.150"
+    ],
+    "bannedUntil": "2019-01-26T02:09:01",
+    "banReason": "English server.",
+    "bannedBy": "Andris"
+  },
+  {
+    "playerName": "Julien Mariskani",
+    "identifiers": [
+      "steam:110000109f10acc",
+      "license:7d8699d2190a341de518877f79774d64f4acff6c",
+      "ip:86.221.55.164"
+    ],
+    "bannedUntil": "2019-01-27T02:09:18",
+    "banReason": "English server, need mic to play here",
+    "bannedBy": "Andris"
+  },
+  {
+    "playerName": "Tkzluu",
+    "identifiers": [
+      "steam:11000010bd13786",
+      "license:e9115a989fecd48d1f16621eab8d00d5f5ba6bbc",
+      "ip:83.243.195.209"
+    ],
+    "bannedUntil": "3000-01-01T00:00:00",
+    "banReason": "Racist language",
+    "bannedBy": "Andris"
+  },
+  {
+    "playerName": "Niqz",
+    "identifiers": [
+      "steam:11000010275a591",
+      "license:0bc638d77f7fcc65a43cca5dc1d462b2b1fb9995",
+      "discord:116567089661214725",
+      "ip:83.243.138.71"
+    ],
+    "bannedUntil": "2019-01-26T04:21:21",
+    "banReason": "Read server rules",
+    "bannedBy": "Andris"
+  },
+  {
+    "playerName": "3=dc|8O6G9_2W1a5ff3l1e",
+    "identifiers": [
+      "steam:110000109ab681d",
+      "license:04a5269a47571927c3467cfd5ca5f9498a6b88ea",
+      "discord:357699777862828032",
+      "ip:86.143.228.5"
+    ],
+    "bannedUntil": "2019-01-25T16:21:40",
+    "banReason": "Read server rules",
+    "bannedBy": "Andris"
+  },
+  {
+    "playerName": "DevilForce",
+    "identifiers": [
+      "steam:110000100c693e7",
+      "license:da52050dc56cee3da3e0d3b4587cd431a45ea712",
+      "ip:94.103.211.125"
+    ],
+    "bannedUntil": "2019-01-25T17:37:05",
+    "banReason": "Cop Baiting | Trying to steal AI Cop Cars",
+    "bannedBy": "Eduardo Rios"
+  },
+  {
+    "playerName": "D. Santana",
+    "identifiers": [
+      "steam:11000011a0b6c04",
+      "license:d96bfb484b81ec3f2ea9c49db821df2663e45b56",
+      "xbl:2535466449709177",
+      "live:844429156776900",
+      "discord:503669675402461194",
+      "ip:68.104.72.100"
+    ],
+    "bannedUntil": "3000-01-01T00:00:00",
+    "banReason": "Shitlordy behaviour / RDM Banned by CrescentGent.",
+    "bannedBy": "CrescentGent - LLJ"
+  },
+  {
+    "playerName": "Dyl",
+    "identifiers": [
+      "steam:1100001098d4790",
+      "license:43a3ebcd7238aca4510646d560f06a5fc5c8b944",
+      "xbl:2535445687888256",
+      "live:985157432767367",
+      "discord:270272357019418624",
+      "ip:24.241.43.44"
+    ],
+    "bannedUntil": "2019-01-27T15:27:54",
+    "banReason": "Inappropriate name",
+    "bannedBy": "Andris"
+  },
+  {
+    "playerName": "[LN] Karma",
+    "identifiers": [
+      "steam:11000010c3d72f7",
+      "license:98393acbcba45adbdbd33a9e3a9352266bcebc1c",
+      "discord:106559758558846976",
+      "ip:77.190.113.206"
+    ],
+    "bannedUntil": "2019-01-27T04:09:28",
+    "banReason": "Mic required to play on this server, cooldown time 10 minutes",
+    "bannedBy": "Andris"
+  },
+  {
+    "playerName": "Kenan Habis",
+    "identifiers": [
+      "steam:1100001195837af",
+      "license:1c9736d3c6b5dfb74fbbd6650ec1a95fb23fe8cf",
+      "discord:169448001775861760",
+      "ip:129.208.140.21"
+    ],
+    "bannedUntil": "3000-01-01T00:00:00",
+    "banReason": "cya",
+    "bannedBy": "Andris"
+  },
+  {
+    "playerName": "Walker Bryan",
+    "identifiers": [
+      "steam:110000118611cb0",
+      "license:0b33184e2ba204ee736dddc673bb03aa7f47faf0",
+      "xbl:2535413644911656",
+      "live:1899946317487604",
+      "discord:423633394329714718",
+      "ip:70.55.105.186"
+    ],
+    "bannedUntil": "2019-02-04T02:50:01",
+    "banReason": "VDM, Combat Logging, FailRP x2 - Banned by staff.",
+    "bannedBy": "CrescentGent - LLJ"
+  },
+  {
+    "playerName": "Smoke Loud",
+    "identifiers": [
+      "steam:1100001098da07f",
+      "license:7c1dca19e133fa299e6c7d6f8e96596bd68b83c9",
+      "xbl:2535471750327714",
+      "live:1055521773310921",
+      "discord:230414048024330242",
+      "ip:81.108.39.148"
+    ],
+    "bannedUntil": "3000-01-01T00:00:00",
+    "banReason": "Banned by staff.",
+    "bannedBy": "Andris"
+  },
+  {
+    "playerName": "DeadBabySwag",
+    "identifiers": [
+      "steam:11000010ec5b0b3",
+      "license:47e560a262b368b8b50317a70f5f1beb2cb4a747",
+      "ip:86.12.107.60"
+    ],
+    "bannedUntil": "3000-01-01T00:00:00",
+    "banReason": "Banned by staff.",
+    "bannedBy": "Andris"
+  },
+  {
+    "playerName": "ATLFalcons65",
+    "identifiers": [
+      "steam:11000011151e232",
+      "license:277baad2ef7e4b54f2069e691bfae8daedd0a6b0",
+      "ip:107.205.111.248"
+    ],
+    "bannedUntil": "2019-02-02T19:44:10",
+    "banReason": "Banned by staff. RDM",
+    "bannedBy": "Eduardo Rios"
+  },
+  {
+    "playerName": "Darker Gaming",
+    "identifiers": [
+      "steam:110000109ffd0b3",
+      "license:a76b352ffeaab960ff257520771d1b60c4ca8978",
+      "discord:193184790692888578",
+      "ip:71.230.57.39"
+    ],
+    "bannedUntil": "3000-01-01T00:00:00",
+    "banReason": "Banned by staff.",
+    "bannedBy": "Andris"
+  },
+  {
+    "playerName": "slim jesus",
+    "identifiers": [
+      "steam:110000114364c82",
+      "license:2f4da10dfb814afa80e3fb0fdf08178d3cb4f367",
+      "ip:85.220.17.216"
+    ],
+    "bannedUntil": "2019-02-04T21:15:10",
+    "banReason": "Cop Baiting / Fail rp, please read up on the rules on our website.",
+    "bannedBy": "Andris"
+  },
+  {
+    "playerName": "lotoff",
+    "identifiers": [
+      "steam:110000137b5b2a0",
+      "license:54a5ebaf1e0dbd130edc3464f44c572039be5793",
+      "ip:90.73.204.235"
+    ],
+    "bannedUntil": "2019-02-03T20:30:35",
+    "banReason": "NVL, FailRP",
+    "bannedBy": "Latham"
+  },
+  {
+    "playerName": "Sicko Gunz",
+    "identifiers": [
+      "steam:11000013519e1a2",
+      "license:c3d0616c82db826e33a0abf1b5e46c0ae7930520",
+      "ip:99.240.217.150"
+    ],
+    "bannedUntil": "3000-01-01T00:00:00",
+    "banReason": "Banned by staff.",
+    "bannedBy": "Grayson"
+  },
+  {
+    "playerName": "Jason",
+    "identifiers": [
+      "steam:110000103f4571b",
+      "license:d6677e14ca46fa90615115bf5b547225eecae2fd",
+      "discord:153307728863952896",
+      "ip:70.127.223.138"
+    ],
+    "bannedUntil": "2019-02-05T15:47:36",
+    "banReason": "Banned by staff. VDM",
+    "bannedBy": "Latham"
+  },
+  {
+    "playerName": "Lebron James",
+    "identifiers": [
+      "steam:110000106a6be00",
+      "license:94b5a015fe67f617e5c31570a7f3d51f78e5c26d",
+      "xbl:2533274906181407",
+      "live:1759220910314249",
+      "ip:24.203.144.239"
+    ],
+    "bannedUntil": "2019-02-05T16:59:47",
+    "banReason": "multiple NVL reports, FailRP, new character bug",
+    "bannedBy": "Latham"
+  },
+  {
+    "playerName": "kenzy gamdom.com",
+    "identifiers": [
+      "steam:11000010e5b7c0a",
+      "license:1e638836626ffa05929c4e86ffb8d609e188be9f",
+      "discord:353670456311676939",
+      "ip:77.78.252.214"
+    ],
+    "bannedUntil": "3000-01-01T00:00:00",
+    "banReason": "Banned by staff.",
+    "bannedBy": "Grayson"
+  },
+  {
+    "playerName": "BitSkins.com idle-empire.com",
+    "identifiers": [
+      "steam:11000011105e224",
+      "license:47f2aa6bcada47917d872a99b1159e2fec090095",
+      "ip:77.78.254.130"
+    ],
+    "bannedUntil": "3000-01-01T00:00:00",
+    "banReason": "Banned by staff.",
+    "bannedBy": "Grayson"
+  },
+  {
+    "playerName": "pabloxescobar93",
+    "identifiers": [
+      "steam:11000011933b929",
+      "license:4dc7f03198e59d01481046c3a4197b8da1aec173",
+      "xbl:2535464813086966",
+      "live:1688852443455797",
+      "discord:312331967741820928",
+      "ip:162.156.200.116"
+    ],
+    "bannedUntil": "2019-02-10T16:58:21",
+    "banReason": "no mic, fail RP",
+    "bannedBy": "Latham"
+  },
+  {
+    "playerName": "Kotrio",
+    "identifiers": [
+      "steam:110000116340cec",
+      "license:201fa5f885ed550b985a63ab748cdb58f5c222c4",
+      "discord:262416447513296896",
+      "ip:99.251.249.44"
+    ],
+    "bannedUntil": "3000-01-01T00:00:00",
+    "banReason": "Banned by staff, no intention to RP. ",
+    "bannedBy": "MigL"
+  },
+  {
+    "playerName": "tdd",
+    "identifiers": [
+      "steam:11000010b65b26c",
+      "license:08c28e94b433194a67402b69db76f0ee6f1c07c5",
+      "xbl:2535405748501470",
+      "live:844427920021246",
+      "discord:384355873235009548",
+      "ip:217.67.86.41"
+    ],
+    "bannedUntil": "3000-01-01T00:00:00",
+    "banReason": "Banned by staff. Hacking/Modding",
+    "bannedBy": "MigL"
+  },
+  {
+    "playerName": "Thibo Hunter",
+    "identifiers": [
+      "steam:1100001339c4c97",
+      "license:10cab0bcabb9838999a77cf0c311fe3df1711cf6",
+      "ip:2.6.39.62"
+    ],
+    "bannedUntil": "3000-01-01T00:00:00",
+    "banReason": "Banned by staff.",
+    "bannedBy": "Grayson"
+  },
+  {
+    "playerName": "InvalidPlayerName",
+    "identifiers": [],
+    "bannedUntil": "3000-01-01T00:00:00",
+    "banReason": "Banned by staff.",
+    "bannedBy": "Grayson"
+  },
+  {
+    "playerName": "MexicanJabbawaki",
+    "identifiers": [
+      "steam:110000102a6682f",
+      "license:034a205a5be70c4c47f4225e3cb66fd66e1ac06e",
+      "ip:98.198.230.32"
+    ],
+    "bannedUntil": "3000-01-01T00:00:00",
+    "banReason": "no intention to rp",
+    "bannedBy": "Grayson"
+  },
+  {
+    "playerName": "JungleTim",
+    "identifiers": [
+      "steam:1100001002e4b8f",
+      "license:df0a205626bcfba5d11f793678a5ee5eb48ff95d",
+      "xbl:2533274834855101",
+      "live:1899945482031733",
+      "discord:208366560820068353",
+      "ip:82.11.141.165"
+    ],
+    "bannedUntil": "3000-01-01T00:00:00",
+    "banReason": "Banned by staff.",
+    "bannedBy": "Eduardo Rios"
+  },
+  {
+    "playerName": "jjmuneer",
+    "identifiers": [
+      "steam:11000010220413e",
+      "license:0d4d9067f0911c0df9e6e0a2db303035c493e9e0",
+      "discord:448554398491213825",
+      "ip:109.152.243.250"
+    ],
+    "bannedUntil": "3000-01-01T00:00:00",
+    "banReason": "Banned by staff. No intention to RP. Modding. ",
+    "bannedBy": "MigL"
+  },
+  {
+    "playerName": "Henrico Delavega",
+    "identifiers": [
+      "steam:11000010664d784",
+      "license:9f651eff98687da2b217d9489e0316ddd807334f",
+      "live:1055518401316167",
+      "discord:352909447385055253",
+      "ip:85.190.79.131"
+    ],
+    "bannedUntil": "3000-01-01T00:00:00",
+    "banReason": "Banned by staff.",
+    "bannedBy": "MigL"
+  },
+  {
+    "playerName": "Mamadou Blanco",
+    "identifiers": [
+      "steam:110000138f9cfb2",
+      "license:ed3c24e888a0d715672c5c76b10a34abb0f00110",
+      "xbl:2535408196239215",
+      "live:985153908839663",
+      "discord:545407542637887508",
+      "ip:24.54.50.32"
+    ],
+    "bannedUntil": "3000-01-01T00:00:00",
+    "banReason": "Banned by staff. Modding",
+    "bannedBy": "Latham"
+  },
+  {
+    "playerName": "Anthony Crav",
+    "identifiers": [
+      "steam:1100001096baa0e",
+      "license:7e8ee4dc70a0681fcf673a9a20655eb27d67a005",
+      "discord:381430544996499466",
+      "ip:2.5.193.4"
+    ],
+    "bannedUntil": "3000-01-01T00:00:00",
+    "banReason": "Banned by staff. Modding",
+    "bannedBy": "Latham"
+  },
+  {
+    "playerName": "Kareem Hunt",
+    "identifiers": [
+      "steam:11000013223e79d",
+      "license:58ed54e8f2a99776c8fdc8f51204a02acd6524e4",
+      "xbl:2535462249437816",
+      "live:985153924748386",
+      "discord:383787067257389056",
+      "ip:73.217.235.176"
+    ],
+    "bannedUntil": "3000-01-01T00:00:00",
+    "banReason": "RDM, Combat Logging, NLR, Racist Terms",
+    "bannedBy": "Eduardo Rios"
+  },
+  {
+    "playerName": "ryden WATSON",
+    "identifiers": [
+      "steam:11000010dc39bc9",
+      "license:d7645103b60f460c41b0908234883820bee49707",
+      "xbl:2535429476333494",
+      "live:844428432464318",
+      "discord:455073724455059467",
+      "ip:80.8.53.253"
+    ],
+    "bannedUntil": "3000-01-01T00:00:00",
+    "banReason": "Modding",
+    "bannedBy": "Eduardo Rios"
+  },
+  {
+    "playerName": "Warfou",
+    "identifiers": [
+      "steam:11000013a1c5d10",
+      "license:68c4ce9a7b7314370972c8d8a5283bc902965934",
+      "live:914798373830650",
+      "ip:84.98.26.173"
+    ],
+    "bannedUntil": "2019-03-18T06:35:30",
+    "banReason": "RDM-Assaulted Players With no RP/FailRP/VDM-Striking Locals With Stolen Cars",
+    "bannedBy": "Akatosh"
+  },
+  {
+    "playerName": "L A S A G N E",
+    "identifiers": [
+      "steam:11000010effb184",
+      "license:fd7c57099de00cf3e906b9764c729f2604a4e89f",
+      "xbl:2535442087421159",
+      "live:985156940414652",
+      "discord:275213079728357386",
+      "ip:194.59.250.2"
+    ],
+    "bannedUntil": "2019-03-19T07:26:05",
+    "banReason": "RDM",
+    "bannedBy": "Bobby Bishop"
+  },
+  {
+    "playerName": "lynn",
+    "identifiers": [
+      "steam:110000104747a37",
+      "license:77c9531d6c02c7f55c8a00aeda3ddbbedd0ac9d2",
+      "xbl:2533274800998956",
+      "live:1829581977888852",
+      "discord:149959781992366080",
+      "ip:86.20.137.152"
+    ],
+    "bannedUntil": "2019-03-19T00:17:21",
+    "banReason": "failrp",
+    "bannedBy": "Grayson"
+  },
+  {
+    "playerName": "Reca",
+    "identifiers": [
+      "steam:11000010277388b",
+      "license:929d4a7e2a12da7a1d8feb2fc2061a5785e787d1",
+      "xbl:2535466334702245",
+      "live:985154051456265",
+      "discord:279042130033246219",
+      "ip:73.174.91.139"
+    ],
+    "bannedUntil": "3000-01-01T00:00:00",
+    "banReason": "Banned by staff.",
+    "bannedBy": "Grayson"
+  },
+  {
+    "playerName": "Russian Catto",
+    "identifiers": [
+      "steam:11000011545f318",
+      "license:06994ef9ef254850e1d8e11833beeadf8c646356",
+      "xbl:2533274899059820",
+      "live:1688853012080915",
+      "discord:202000813525172224",
+      "ip:74.89.146.243"
+    ],
+    "bannedUntil": "3000-01-01T00:00:00",
+    "banReason": "Banned by staff.",
+    "bannedBy": "Grayson"
+  },
+  {
+    "playerName": "Rec",
+    "identifiers": [
+      "steam:1100001061edfb5",
+      "license:fdda1e52601540c98e96660a17612056e22d065d",
+      "xbl:2533274810698460",
+      "live:914800825021445",
+      "discord:112116845275824128",
+      "ip:99.98.138.137"
+    ],
+    "bannedUntil": "3000-01-01T00:00:00",
+    "banReason": "Banned by staff.",
+    "bannedBy": "Grayson"
+  },
+  {
+    "playerName": "Bair",
+    "identifiers": [
+      "steam:110000109d1f993",
+      "license:12ee139f6c8f725cd86a8cabf759df2772df3ef8",
+      "xbl:2533274908326058",
+      "live:914800672450966",
+      "discord:158078918753124353",
+      "ip:68.14.176.181"
+    ],
+    "bannedUntil": "3000-01-01T00:00:00",
+    "banReason": "Banned by staff.",
+    "bannedBy": "Grayson"
+  },
+  {
+    "playerName": "Eric",
+    "identifiers": [
+      "steam:1100001059bf013",
+      "license:684b7a2e2450b8979d0cfd3ce18206a1098670b2",
+      "discord:263828699445460992",
+      "ip:88.90.216.244"
+    ],
+    "bannedUntil": "3000-01-01T00:00:00",
+    "banReason": "Banned by staff.",
+    "bannedBy": "Grayson"
+  },
+  {
+    "playerName": "SuperSpace",
+    "identifiers": [
+      "steam:11000010df14d5e",
+      "license:79475593fb17be2cf29657a668c1797505fa3403",
+      "xbl:2535460085486032",
+      "live:985157336601860",
+      "discord:111276556105592832",
+      "ip:24.251.250.29"
+    ],
+    "bannedUntil": "3000-01-01T00:00:00",
+    "banReason": "Banned by staff.",
+    "bannedBy": "Grayson"
+  },
+  {
+    "playerName": "lindo dms",
+    "identifiers": [
+      "steam:110000135132b36",
+      "license:541e91991c703168fddf1018fa563b3e8d3b3940",
+      "xbl:2535410639320534",
+      "live:1829582079518217",
+      "discord:221391439463055361",
+      "ip:179.108.6.183"
+    ],
+    "bannedUntil": "3000-01-01T00:00:00",
+    "banReason": "RDM",
+    "bannedBy": "Grayson"
+  },
+  {
+    "playerName": "gustav",
+    "identifiers": [
+      "steam:110000107e4775d",
+      "license:61f02eec8a8ec9cda5da07488f2cb03c8baa6d4d",
+      "xbl:2535451350728467",
+      "live:1055521332755895",
+      "ip:78.72.38.100"
+    ],
+    "bannedUntil": "3000-01-01T00:00:00",
+    "banReason": "Banned by staff.",
+    "bannedBy": "Grayson"
+  },
+  {
+    "playerName": "Jarred_Cat",
+    "identifiers": [
+      "steam:11000010745e255",
+      "license:61946017f08c78a050502d084c4a622aa548219c",
+      "xbl:2535449372695491",
+      "live:914801425623517",
+      "ip:82.23.66.163"
+    ],
+    "bannedUntil": "3000-01-01T00:00:00",
+    "banReason": "Banned by staff.",
+    "bannedBy": "Grayson"
+  },
+  {
+    "playerName": "GeeFamous92",
+    "identifiers": [
+      "steam:110000109da40b2",
+      "license:f19a89c3a63258677739a58dccdae9dcdd8ece59",
+      "ip:172.74.162.134"
+    ],
+    "bannedUntil": "3000-01-01T00:00:00",
+    "banReason": "Banned by staff.",
+    "bannedBy": "Grayson"
+  },
+  {
+    "playerName": "Bruce U",
+    "identifiers": [
+      "steam:11000010ebafc08",
+      "license:492bdd7f8febe2054f7db93d6b951ec0750b5e85",
+      "ip:24.84.0.11"
+    ],
+    "bannedUntil": "3000-01-01T00:00:00",
+    "banReason": "Banned by staff.",
+    "bannedBy": "Grayson"
+  },
+  {
+    "playerName": "WinstonGamdom.Com",
+    "identifiers": [
+      "steam:11000011792816a",
+      "license:aba4c9ccd67310f944095a54c2cb61a1f44eabe3",
+      "ip:90.143.92.198"
+    ],
+    "bannedUntil": "2019-03-28T07:51:06",
+    "banReason": "RDM | No Mic | Failure to respond to /me and /do CMDS",
+    "bannedBy": "Kitsune Days"
+  },
+  {
+    "playerName": "Lewlis",
+    "identifiers": [
+      "steam:11000010fde7c88",
+      "license:81d51dcf0e7c34720e121fb8831a631a6923014b",
+      "ip:5.66.194.115"
+    ],
+    "bannedUntil": "3000-01-01T00:00:00",
+    "banReason": "Banned by staff. VDM",
+    "bannedBy": "Akatosh"
+  },
+  {
+    "playerName": "StreamVader",
+    "identifiers": [
+      "steam:110000100896dc1",
+      "license:c129aa9e86abe1f2ff3cfdc33e95d99e2aed26db",
+      "xbl:2533274828784978",
+      "live:1899945546837819",
+      "discord:243813145309609984",
+      "ip:92.232.146.85"
+    ],
+    "bannedUntil": "3000-01-01T00:00:00",
+    "banReason": "Banned by staff. RDM/FailRP/No Mic",
+    "bannedBy": "Akatosh"
+  },
+  {
+    "playerName": "Hightec",
+    "identifiers": [
+      "steam:110000117ad32c6",
+      "license:0c288ba53557369d4ed158158589dbeedb381c62",
+      "ip:109.206.213.141"
+    ],
+    "bannedUntil": "3000-01-01T00:00:00",
+    "banReason": "Banned by staff.VDM/FailRP",
+    "bannedBy": "Akatosh"
+  },
+  {
+    "playerName": "Keysue",
+    "identifiers": [
+      "steam:110000107598ad7",
+      "license:f6b1643754c2e169fd4769728e11f0d2e761c3e2",
+      "xbl:2533274973494874",
+      "live:914800950179626",
+      "ip:95.192.216.152"
+    ],
+    "bannedUntil": "3000-01-01T00:00:00",
+    "banReason": "Banned by staff. RDM/FailRP - Shooting at People with no RP",
+    "bannedBy": "Akatosh"
+  },
+  {
+    "playerName": "FireFox",
+    "identifiers": [
+      "steam:1100001114039a8",
+      "license:7b990b23a37f0661db28b2dbad48255012d30fcd",
+      "xbl:2535412981051499",
+      "live:985153913310918",
+      "ip:147.4.223.168"
+    ],
+    "bannedUntil": "2019-03-28T05:02:49",
+    "banReason": "Banned by staff. NVL - Gun pointed at him in which you proceed to run away, then come back and punch the individual with the gun. No Mic",
+    "bannedBy": "Akatosh"
+  },
+  {
+    "playerName": "InvalidPlayerName",
+    "identifiers": [],
+    "bannedUntil": "3000-01-01T00:00:00",
+    "banReason": "Banned by staff. RDM/FailRP - Shooting NPC Police with no RP, Attempting to steal police vehicles with no RP",
+    "bannedBy": "Akatosh"
+  },
+  {
+    "playerName": "$uicideBoi",
+    "identifiers": [
+      "steam:1100001152fe7b7",
+      "license:a25e7edaa7959737cb5938574eaad78751e485ce",
+      "live:1759222499723294",
+      "ip:188.4.106.13"
+    ],
+    "bannedUntil": "3000-01-01T00:00:00",
+    "banReason": "Banned by staff. RDM - Downing people with no RP",
+    "bannedBy": "Akatosh"
+  },
+  {
+    "playerName": "LCDR Akame",
+    "identifiers": [
+      "steam:1100001080c41a5",
+      "license:ba7c12eca38ae4f5c17c0a42a95762a4d010a576",
+      "ip:86.13.111.132"
+    ],
+    "bannedUntil": "2019-03-29T01:40:32",
+    "banReason": "Banned by staff. Using 3rd Party Comms. Please read server rules.",
+    "bannedBy": "Akatosh"
+  },
+  {
+    "playerName": "Jay Cannon",
+    "identifiers": [
+      "steam:1100001054cdf37",
+      "license:f7f3be435bbde0cdd50db8b9ea14081de77d5728",
+      "ip:76.30.161.177"
+    ],
+    "bannedUntil": "3000-01-01T00:00:00",
+    "banReason": "Banned by staff. RDM/VDM - Downing locals and players without RP. Driving car into locals.",
+    "bannedBy": "Akatosh"
+  },
+  {
+    "playerName": "dicky",
+    "identifiers": [
+      "steam:1100001018f0135",
+      "license:de2a7965e264d01c4f2ddc70302633e1fe8b3379",
+      "ip:81.232.145.18"
+    ],
+    "bannedUntil": "3000-01-01T00:00:00",
+    "banReason": "Banned by staff. Joined with racist and discriminatory name",
+    "bannedBy": "Akatosh"
+  },
+  {
+    "playerName": "InvalidPlayerName",
+    "identifiers": [],
+    "bannedUntil": "3000-01-01T00:00:00",
+    "banReason": "Banned by staff. RDM",
+    "bannedBy": "Akatosh"
+  },
+  {
+    "playerName": "Sebastien Gerrio",
+    "identifiers": [
+      "steam:110000111a9f50f",
+      "license:52214455f0723fcfae039a100670fb8daf317f0b",
+      "xbl:2535419813273195",
+      "live:985157237378154",
+      "ip:85.190.76.36"
+    ],
+    "bannedUntil": "3000-01-01T00:00:00",
+    "banReason": "Banned by staff.Teleporting around the city/Increased Jump",
+    "bannedBy": "Akatosh"
+  },
+  {
+    "playerName": "Foksy",
+    "identifiers": [
+      "steam:11000011a149c26",
+      "license:af8f794e324390b3959f79b39c8e424ba2f4432e",
+      "xbl:2535459334461327",
+      "live:844425327359915",
+      "ip:77.31.86.30"
+    ],
+    "bannedUntil": "2019-03-28T23:39:56",
+    "banReason": "Banned by staff. Failure to change name to a realistic name after being kicked several times",
+    "bannedBy": "Akatosh"
+  },
+  {
+    "playerName": "Kenjits",
+    "identifiers": [
+      "steam:1100001037b12cc",
+      "license:40d9687f01fa1fe573613b9853830cf4cb9fb932",
+      "xbl:2533274959755874",
+      "live:1899946259309176",
+      "ip:173.80.126.6"
+    ],
+    "bannedUntil": "3000-01-01T00:00:00",
+    "banReason": "Banned by staff. Hacking/Mass RDM",
+    "bannedBy": "Akatosh"
+  }
+]
